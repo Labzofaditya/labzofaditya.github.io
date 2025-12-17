@@ -1,8 +1,28 @@
 ---
-title: Aditya Mishra
+title: About
 layout: home
 ---
+# Aditya Mishra
+**Entrepreneur. Foodie**
 
+I am currently building:
+- Panya Labs: A Startup in stealth
+- OCEN: DPI from iSPIRT for MSME lending
+
+Earlier, I have built:
+- AMORQA (Sold to 4B Network),
+- SwitchMe (Pivoted to AMORQA),
+- Headstart (Flourishing!),
+- Tata CRL (Absorbed into TCS),
+- TCS COIN (Flourishing!) and
+- Vista at IIM Bangalore (Merged into Venix).
+
+I enjoy food, learning new things and meeting folks building interesting things. 
+
+I write on:
+1. Twitter
+2. Substack
+3. Here
 
 
 ----
