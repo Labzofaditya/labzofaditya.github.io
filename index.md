@@ -6,8 +6,8 @@ layout: home
 **Entrepreneur. Foodie**
 
 I am currently building:
-- Panya Labs: A Startup in stealth
-- OCEN: DPI from iSPIRT for MSME lending
+- [Panya Labs](https://www.panyalabs.com): A Startup in stealth
+- [OCEN](https://www.ocen.dev): DPI from iSPIRT for MSME lending
 
 Earlier, I have built:
 - AMORQA (Sold to 4B Network),
