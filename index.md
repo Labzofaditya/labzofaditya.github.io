@@ -19,12 +19,13 @@ Earlier, I have built:
 
 I enjoy food, learning new things and meeting folks building interesting things. 
 
-This site is home to "permanent notes" on things that I find interesting:
+This site is home to "accreted notes" on topics that I find interesting:
 1. Production Function
 2. Tragedy of Commons
 3. Indian Civilisation
+4. Building
 
-This is different from my "intermediate notes" that I put on my Substack - Making Roads. What this means is that all my notes are in the substack but a few of the intermediate notes become permanent and get housed here as well.
+This is different from my "accretion notes" that I put on my Substack - Making Roads. 
 
 
 ----
