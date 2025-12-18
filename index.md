@@ -23,7 +23,6 @@ This site is home to "accreted notes" on topics that I find interesting:
 1. Production Function
 2. Tragedy of Commons
 3. Indian Civilisation
-4. Building
 
 This is different from my "accretion notes" that I put on my Substack - Making Roads. 
 
