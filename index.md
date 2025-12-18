@@ -12,10 +12,10 @@ I am currently building:
 Earlier, I have built:
 - AMORQA (Sold to 4B Network),
 - SwitchMe (Pivoted to AMORQA),
-- Headstart (Flourishing!),
-- Tata CRL (Absorbed into TCS),
-- TCS COIN (Flourishing!) and
-- Vista at IIM Bangalore (Merged into Venix).
+- [Headstart](https://www.headstart.in) (Flourishing!),
+- [Tata CRL](https://en.wikipedia.org/wiki/EKA_(supercomputer)) ([Absorbed into TCS](https://www.tcs.com/who-we-are/newsroom/press-release/tcs-enhance-high-performance-application-cloud-acquires-crl)),
+- [TCS COIN](https://www.tcs.com/who-we-are/newsroom/tcs-in-the-news/tcs-cointm) (Flourishing!) and
+- Vista at IIM Bangalore ([Merged into Venix](https://www.iimb.ac.in/venix_2025)).
 
 I enjoy food, learning new things and meeting folks building interesting things. 
 
