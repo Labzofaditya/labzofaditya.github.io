@@ -3,7 +3,7 @@ title: About
 layout: about
 ---
 # Aditya Mishra
-**Entrepreneur. Foodie**
+.text-blue-000**Entrepreneur. Foodie**
 
 I am currently building:
 - [Panya Labs](https://www.panyalabs.com): A Startup in stealth
