@@ -22,7 +22,7 @@ I enjoy food, learning new things and meeting folks building interesting things.
 This site is home to "accreted notes" on topics that I find interesting:
 1. Production Function
 2. Tragedy of Commons
-3. Indian Civilisation
+3. India - Civilisation, State & Economy
 
 This is different from my "accretion notes" that I put on my Substack - Making Roads. 
 
