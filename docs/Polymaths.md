@@ -1,5 +1,5 @@
 ---
-title: Pollymaths
+title: Polymaths
 parent: Production Function
 layout: default
 nav_order: 3
