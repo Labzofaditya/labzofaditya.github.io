@@ -2,7 +2,7 @@
 title: Production Function
 nav_order: 2
 has_children: true
-layout: about
+layout: default
 ---
 
 # Production Function
