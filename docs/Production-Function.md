@@ -1,5 +1,5 @@
 ---
-title: Production-Function
+title: Production Function
 nav_order: 2
 has_children: true
 layout: default
@@ -14,3 +14,5 @@ layout: default
 ## Types of Production Functions
 - Entrepreneurs
 - Creatives
+- Polymaths
+- Sue Generis
