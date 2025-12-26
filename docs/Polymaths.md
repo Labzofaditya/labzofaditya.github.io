@@ -1,6 +1,6 @@
 ---
 title: Pollymaths
-Parent: Production Function.md
+parent: Production Function
 layout: default
 nav_order: 3
 ---
