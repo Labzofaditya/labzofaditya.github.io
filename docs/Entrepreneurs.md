@@ -1,6 +1,6 @@
 ---
 title: Entrepreneurs
-parent: Production Function.md
+parent: Production Function
 layout: default
 nav_order: 1
 ---
