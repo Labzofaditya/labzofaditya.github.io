@@ -1,6 +1,6 @@
 ---
 title: Sue Generis
-Parent: Production Function
+parent: Production Function
 layout: default
 nav_order: 4
 ---
