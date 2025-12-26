@@ -1,6 +1,6 @@
 ---
 title: Creatives
-Parent: Production Function
+Parent: Production Function.md
 layout: default
 nav_order: 2
 ---
