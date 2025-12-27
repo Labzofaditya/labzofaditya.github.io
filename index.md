@@ -3,6 +3,10 @@ title: About
 nav_order: 1
 layout: about
 ---
+<p align="left">
+  <img src="/assets/images/Aditya.JPG" width="500">
+</p>
+
 ![Aditya](/assets/images/Aditya.JPG)
 # Aditya Mishra
 **Entrepreneur. Foodie**
