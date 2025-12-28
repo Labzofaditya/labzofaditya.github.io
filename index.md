@@ -11,8 +11,9 @@ layout: about
 </p>
 
 # Aditya Mishra
-{: **Entrepreneur. Foodie**
-.text-blue-200 }
+<p class="text-blue-200">
+  **Entrepreneur. Foodie**
+</p>
 
 I am currently building:
 - [Panya Labs](https://www.panyalabs.com): A Startup in stealth
