@@ -23,21 +23,13 @@ Earlier, I have built:
 
 I enjoy food, learning new things and meeting folks building interesting things. 
 
-This site is home to "accreted notes" on topics that I find interesting:
+This site is home to "accreted notes" on topics that I find interesting. Some of them are:
 1. Production Function
 2. Tragedy of Commons
 3. India - Civilisation, State & Economy
 
-For eg, the notes from a single biography of a person would appear on my Substack whereas the cumulative notes across all biographies of that person appear here.
+This is different from my Substack which is more frequently updated and less digested/reflected. For eg, the notes from a single biography of a person would appear on my Substack. Here, you would find my analysis of his/her production function across various sources. 
 
 
 ----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
