@@ -34,7 +34,7 @@ This site is home to "accreted notes" on topics that I find interesting:
 2. Tragedy of Commons
 3. India - Civilisation, State & Economy
 
-This is different from my "accretion notes" that I put on my Substack - Making Roads. 
+For eg, the notes from a single biography of a person would appear on my Substack whereas the cumulative notes across all biographies of that person appear here.
 
 
 ----
