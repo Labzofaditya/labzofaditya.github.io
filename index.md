@@ -23,12 +23,12 @@ Earlier, I have built:
 
 I enjoy food, learning new things and meeting folks building interesting things. 
 
-This site is home to "accreted notes" on topics that I find interesting. Some of them are:
+This site is home to "accreted notes" on topics that I find interesting. Some of the topics are:
 1. Production Function
 2. Tragedy of Commons
 3. India - Civilisation, State & Economy
 
-This is different from my Substack which is more frequently updated and less digested/reflected. For eg, the notes from a single biography of a person would appear on my Substack. Here, you would find my analysis of his/her production function across various sources. 
+This is different from my Substack which is more frequently updated and less digested/reflected. For eg, the notes from a single biography of a person would appear on my Substack. Here, you would find my analysis of the same person's production function across various sources. 
 
 
 ----
