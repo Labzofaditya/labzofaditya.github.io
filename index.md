@@ -12,6 +12,7 @@ layout: about
 
 # Aditya Mishra
 **Entrepreneur. Foodie**
+{: .text-blue-200 }
 
 I am currently building:
 - [Panya Labs](https://www.panyalabs.com): A Startup in stealth
