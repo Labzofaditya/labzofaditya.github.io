@@ -11,8 +11,7 @@ layout: about
 </p>
 
 # Aditya Mishra
-**
-<p class="text-blue-200">
+**<p class="text-blue-200">
   Entrepreneur. Foodie
 </p>
 
