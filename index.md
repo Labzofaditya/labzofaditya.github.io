@@ -4,7 +4,15 @@ nav_order: 1
 layout: about
 ---
 <p align="left">
-  <img src="/assets/images/Aditya Mishra.jpg" width="250" class="float-right-image" Alt="Aditya Mishra">
+  <img src="/assets/images/Aditya Mishra.jpg" 
+    width="250" 
+    class="float-right-image" 
+    .float-right-image {
+  float: right;
+  width: 250px;
+  margin: 0 0 1rem 1.5rem; /* space from text */
+}
+    Alt="Aditya Mishra">
 </p>
 
 # Aditya Mishra
