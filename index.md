@@ -12,7 +12,7 @@ layout: about
 
 # Aditya Mishra
 <p class="text-blue-000">
-  <b>Entrepreneur. Foodie</b>
+  <b>Entrepreneur. Foodie.</b>
 </p>
 
 I am currently building:
