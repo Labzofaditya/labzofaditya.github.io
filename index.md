@@ -4,7 +4,7 @@ nav_order: 1
 layout: about
 ---
 <p align="left">
-  <img src="/assets/images/Aditya.JPG" width="500" Alt="Aditya Mishra">
+  <img src="/assets/images/Aditya Mishra.JPG" width="300" Alt="Aditya Mishra">
 </p>
 
 # Aditya Mishra
