@@ -3,12 +3,6 @@ title: About
 nav_order: 1
 layout: about
 ---
-<p align="left">
-  <img src="/assets/images/Aditya Mishra.jpg" 
-    width="250" 
-    class="float-right-image" 
-    Alt="Aditya Mishra">
-</p>
 
 # Aditya Mishra
 <p class="text-blue-000">
