@@ -1,6 +1,6 @@
 title: Aditya Mishra
 description: A Personal Page
-theme: just-the-doc
+theme: just-the-docs
 
 url: https://www.adityamishra.in
 
@@ -8,3 +8,5 @@ aux_links:
   Anonymous Feedback: https://www.admonymous.co/aditya-mishra
   Twitter: https://www.x.com/adityamishra
   Substack: https://www.makingroads.com
+
+footer_content: "Built using Jekyll & Just the Docs"
