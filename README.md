@@ -1,3 +1,9 @@
+# labzofaditya.github.io
+
+This site now forwards to **[adityamishra.in](https://adityamishra.in)**: `index.html` and `404.html` redirect every address there. The old notes in `docs/` are kept as an archive (all unpublished). The live site's source is the `adityamishra` repo.
+
+---
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
